@@ -29,7 +29,7 @@ This is a student project designed to demonstrate Java web development, MVC arch
 ---
 
 ## 🗂️ Project Structure
-
+```
 tourguide-system/
 │
 ├── src/
@@ -55,7 +55,7 @@ tourguide-system/
 │ └── wrong.jsp
 │
 └── database/tourguide.sql
-
+```
 
 ---
 
