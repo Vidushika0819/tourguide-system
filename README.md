@@ -77,7 +77,7 @@ CREATE TABLE guides (
 );
 ```
 
-##🚀 How to Run
+## 🚀 How to Run
 
 ### 1️⃣ Install Requirements
 
