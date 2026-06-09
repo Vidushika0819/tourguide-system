@@ -79,54 +79,15 @@ CREATE TABLE guide (
 );
 ```
 
-## 🚀 How to Run
-
-### 1️⃣ Install Requirements
-
-JDK 8+
-
-Apache Tomcat 8/9/10
-
-MySQL Server
-
-Eclipse / IntelliJ IDEA
-
-### 2️⃣ Configure Database
-
-Update DB credentials in:
-
-```
-DBConnection.java
-```
-
-Example:
-```
-Connection con = DriverManager.getConnection(
-    "jdbc:mysql://localhost:3306/tourguide_db",
-    "root",
-    ""
-);
-```
-### 3️⃣ Run on Tomcat
-
-Upload project → Run on server → Open browser:
-```
-http://localhost:8080/tourguide-system/
-```
-
 ## 🧰 Technologies Used
 
-Java Servlets
-
-JSP
-
-JDBC
-
-HTML / CSS
-
-MySQL
-
-MVC Architecture
+- Frontend - HTML, CSS, JSP
+- Backend - Java Servlets
+- Database - MySQL
+- Database Connection - JDBC
+- Local Development Server - Apache Tomcat
+- Code Editor / IDE - Eclipse
+- Project Structure - MVC Architecture
 
 ## 📄 License
 
