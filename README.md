@@ -44,15 +44,15 @@ tourguide-system/
 │ │ └── GuideController.java
 │ │
 │ └── webapp/
-│ ├── css/
-│ ├── javascript/
-│ ├── images/
-│ ├── META-INF/
-│ ├── WEB-INF/
-│ ├── create.jsp
-│ ├── display.jsp
-│ ├── update.jsp
-│ └── wrong.jsp
+│   ├── css/
+│   ├── javascript/
+│   ├── images/
+│   ├── META-INF/
+│   ├── WEB-INF/
+│   ├── create.jsp
+│   ├── display.jsp
+│   ├── update.jsp
+│   └── wrong.jsp
 │
 └── database/tourguide.sql
 ```
