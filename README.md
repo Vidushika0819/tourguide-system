@@ -69,12 +69,13 @@ CREATE DATABASE tourguide_db;
 
 Create table:
 ```sql
-CREATE TABLE guides (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(150),
-  age INT,
-  experience INT,
-  language VARCHAR(255)
+CREATE TABLE guide (
+    id INT NOT NULL AUTO_INCREMENT,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    phone VARCHAR(10) NOT NULL,
+    address VARCHAR(100) NOT NULL,
+    PRIMARY KEY (id)
 );
 ```
 
