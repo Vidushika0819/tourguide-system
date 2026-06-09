@@ -54,7 +54,8 @@ tourguide-system/
 │   ├── update.jsp
 │   └── wrong.jsp
 │
-└── database/tourguide.sql
+├── .classpath
+└── .project
 ```
 
 ---
